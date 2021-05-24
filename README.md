@@ -1,6 +1,6 @@
 # presdirpragata
 <p><h4>PRAGATADHIMAS.GITHUB.IO</p></h4>
-<h5>STATIC WEBSITE, PEROMBAKKAN PADA VERSI SEBELUMNYA<br><b>Hanya Menggunakan HTML,CSS,JS</h5></b>M/br>
+<h5>STATIC WEBSITE, PEROMBAKKAN PADA VERSI SEBELUMNYA<br><b>Hanya Menggunakan HTML,CSS,JS</h5></b></br>
 <i><h5>this website is only for personal use</i></h5>
 <p>저는 누군가의 대본을 사용하고 있습니다.</p>
 이 대본을 사용하고 싶다면 현명하게 사용하세요.
