@@ -126,11 +126,11 @@ a:after {
 
 
 #ww {
-	padding-top: 300px;
-	padding-bottom: 300px;
-	background-image: url("../img/bgbody.jpg");
+	padding-top: 250px;
+	padding-bottom: 250px;
+	background-image: url("../img/bgbody2.jpg");
 	background-position: center;
-	background-size: 1350px;
+	background-size: 1550px;
 }
 
 #footer {
