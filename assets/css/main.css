@@ -126,13 +126,12 @@ a:after {
 
 
 #ww {
-	padding-top: 430px;
+	padding-top: 300px;
 	padding-bottom: 300px;
-	background-image: url("../img/bgbody.jpg");
+	background-image: url("../img/bgbody2.jpg");
 	background-position: center;
-	background-size: 1350px;
+	background-size: 1550px;
 }
-
 
 #footer {
 	background-color: black;
