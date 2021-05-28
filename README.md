@@ -12,3 +12,4 @@
 Wenn Sie dieses Skript verwenden möchten, verwenden Sie es mit Bedacht.
 <p> Da es nur für den persönlichen Gebrauch bestimmt ist, entspricht es meinem Geschmack. </p>
 <p>Einige Teile wurden leicht modifiziert, um sie sichtbar zu machen. </p>
+11mei2022
