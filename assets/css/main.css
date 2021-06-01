@@ -2,7 +2,7 @@
 
 body {
   	background-color: black;
-  	font-family: 'Montserrat', sans-serif;
+  	font-family: 'Monsterrat', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: white;
@@ -126,11 +126,22 @@ a:after {
 
 
 #ww {
-	padding-top: 250px;
-	padding-bottom: 250px;
-	background-image: url("../img/bgbody2.jpg");
+	padding-top: 125px;
+	padding-bottom: 125px;
+	background-color: white;
+	background-image: url("../img/bgbody.jpg");
 	background-position: center;
-	background-size: 1550px;
+	background-size: 1370px;
+}
+
+#ww p {
+	font-family: Times New Roman;
+	font-size: 17px;
+	color: black;
+}
+
+#ww img {
+	width: 220px;
 }
 
 #footer {
@@ -154,14 +165,20 @@ a:after {
 }
 
 #grey {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #1b1b1b;
+}
+
+#greybl {
 	padding-top: 75px;
 	padding-bottom: 75px;
 	background-color: #1b1b1b;
 }
 
 #white {
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 75px;
+	padding-bottom: 75px;
 	background-color: #0e1013;
 }
 
