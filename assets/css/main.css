@@ -126,17 +126,33 @@ a:after {
 
 
 #ww {
-	padding-top: 315px;
-	padding-bottom: 315px;
+	padding-top: 160px;
+	padding-bottom: 130px;
 	background-color: white;
 	background-image: url("../img/bgbody.jpg");
 	background-position: center;
 	background-size: 1470px;
 }
 
+#ww1 {
+	padding-top: 137px;
+	padding-bottom: 85px;
+	background-color: white;
+	background-image: url("../img/bgbodyx.jpg");
+	background-position: center;
+	background-size: 1470px;
+}
+
+#ww1 p {
+	font-family: Arial;
+	font-size: 15px;
+	color: black;
+}
+
+
 #ww p {
-	font-family: Times New Roman;
-	font-size: 17px;
+	font-family: Arial;
+	font-size: 15px;
 	color: black;
 }
 
